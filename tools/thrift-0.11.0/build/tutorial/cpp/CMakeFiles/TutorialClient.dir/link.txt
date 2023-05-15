@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-variadic-macros -Wno-long-long  -rdynamic CMakeFiles/TutorialClient.dir/CppClient.cpp.o  -o ../../bin/TutorialClient  -Wl,-rpath,/root/tools/thrift-0.11.0/build/lib ../../lib/libtutorialgencpp.a ../../lib/libthrift.so.0.11.0 -lssl -lcrypto -lpthread 

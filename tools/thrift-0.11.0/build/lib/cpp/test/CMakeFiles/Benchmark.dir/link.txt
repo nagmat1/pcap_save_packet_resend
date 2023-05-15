@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-variadic-macros -Wno-long-long  -rdynamic CMakeFiles/Benchmark.dir/Benchmark.cpp.o  -o ../../../bin/Benchmark  -Wl,-rpath,/root/tools/thrift-0.11.0/build/lib ../../libtestgencpp.a ../../libthrift.so.0.11.0 ../../libtestgencpp.a -lssl -lcrypto -lpthread 

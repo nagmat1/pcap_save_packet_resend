@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../libtestgencpp_cob.a  CMakeFiles/testgencpp_cob.dir/gen-cpp/ChildService.cpp.o CMakeFiles/testgencpp_cob.dir/gen-cpp/EmptyService.cpp.o CMakeFiles/testgencpp_cob.dir/gen-cpp/ParentService.cpp.o CMakeFiles/testgencpp_cob.dir/gen-cpp/proc_types.cpp.o
+/usr/bin/ranlib ../../libtestgencpp_cob.a

@@ -1,0 +1,927 @@
+[
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/main.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/main.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/main.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/audit/t_audit.cpp.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/audit/t_audit.cpp",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/audit/t_audit.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_c_glib_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_c_glib_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_c_glib_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_cpp_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_cpp_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_cpp_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_java_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_java_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_java_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_as3_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_as3_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_as3_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_dart_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_dart_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_dart_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_haxe_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_haxe_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_haxe_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_csharp_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_csharp_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_csharp_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_netcore_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_netcore_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_netcore_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_py_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_py_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_py_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_rb_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_rb_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_rb_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_perl_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_perl_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_perl_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_php_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_php_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_php_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_erl_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_erl_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_erl_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_cocoa_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_cocoa_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_cocoa_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_swift_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_swift_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_swift_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_st_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_st_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_st_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_ocaml_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_ocaml_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_ocaml_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_hs_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_hs_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_hs_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_xsd_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_xsd_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_xsd_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_html_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_html_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_html_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_js_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_js_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_js_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_json_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_json_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_json_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_javame_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_javame_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_javame_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_delphi_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_delphi_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_delphi_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_go_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_go_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_go_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_d_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_d_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_d_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_lua_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_lua_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_lua_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_gv_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_gv_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_gv_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_rs_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_rs_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_rs_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_xml_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_xml_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_xml_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/common.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/common.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/common.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/generate/t_generator.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_generator.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/generate/t_generator.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/parse/t_typedef.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/parse/t_typedef.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/parse/t_typedef.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift-compiler.dir/src/thrift/parse/parse.cc.o -c /root/tools/thrift-0.11.0/compiler/cpp/src/thrift/parse/parse.cc",
+  "file": "/root/tools/thrift-0.11.0/compiler/cpp/src/thrift/parse/parse.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/parse.dir/thrift/thrifty.cc.o -c /root/tools/thrift-0.11.0/build/compiler/cpp/thrift/thrifty.cc",
+  "file": "/root/tools/thrift-0.11.0/build/compiler/cpp/thrift/thrifty.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/compiler/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/compiler/cpp -I/root/tools/thrift-0.11.0/compiler/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/compiler/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/parse.dir/thrift/thriftl.cc.o -c /root/tools/thrift-0.11.0/build/compiler/cpp/thrift/thriftl.cc",
+  "file": "/root/tools/thrift-0.11.0/build/compiler/cpp/thrift/thriftl.cc"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thriftnb_static.dir/src/thrift/server/TNonblockingServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TNonblockingServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TNonblockingServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thriftnb_static.dir/src/thrift/transport/TNonblockingServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thriftnb_static.dir/src/thrift/transport/TNonblockingSSLServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingSSLServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingSSLServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thriftnb_static.dir/src/thrift/async/TAsyncProtocolProcessor.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncProtocolProcessor.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncProtocolProcessor.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thriftnb_static.dir/src/thrift/async/TEvhttpServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thriftnb_static.dir/src/thrift/async/TEvhttpClientChannel.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpClientChannel.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpClientChannel.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthriftnb_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thriftnb.dir/src/thrift/server/TNonblockingServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TNonblockingServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TNonblockingServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthriftnb_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thriftnb.dir/src/thrift/transport/TNonblockingServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthriftnb_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thriftnb.dir/src/thrift/transport/TNonblockingSSLServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingSSLServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TNonblockingSSLServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthriftnb_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thriftnb.dir/src/thrift/async/TAsyncProtocolProcessor.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncProtocolProcessor.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncProtocolProcessor.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthriftnb_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thriftnb.dir/src/thrift/async/TEvhttpServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthriftnb_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thriftnb.dir/src/thrift/async/TEvhttpClientChannel.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpClientChannel.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TEvhttpClientChannel.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/TApplicationException.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/TApplicationException.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/TApplicationException.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/TOutput.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/TOutput.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/TOutput.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/async/TAsyncChannel.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncChannel.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncChannel.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/async/TConcurrentClientSyncInfo.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/ThreadManager.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/ThreadManager.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/ThreadManager.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/TimerManager.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/TimerManager.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/TimerManager.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/Util.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Util.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Util.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/processor/PeekProcessor.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/processor/PeekProcessor.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/processor/PeekProcessor.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TBase64Utils.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TBase64Utils.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TBase64Utils.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TDebugProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TJSONProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TMultiplexedProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/protocol/TProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TTransportException.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportException.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportException.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TFDTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFDTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFDTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSimpleFileTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/THttpTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/THttpClient.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpClient.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpClient.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/THttpServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSocketPool.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocketPool.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocketPool.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TTransportUtils.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportUtils.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportUtils.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TBufferTransports.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TBufferTransports.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TBufferTransports.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/server/TConnectedClient.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TConnectedClient.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TConnectedClient.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/server/TServerFramework.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServerFramework.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServerFramework.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/server/TSimpleServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TSimpleServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TSimpleServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/server/TThreadPoolServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadPoolServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadPoolServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/server/TThreadedServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadedServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadedServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TPipe.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipe.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipe.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TPipeServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipeServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipeServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TFileTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFileTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFileTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/VirtualProfiling.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/VirtualProfiling.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/VirtualProfiling.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/server/TServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSSLSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/transport/TSSLServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/PosixThreadFactory.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/Mutex.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Mutex.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Mutex.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/thrift_static.dir/src/thrift/concurrency/Monitor.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Monitor.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Monitor.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/TApplicationException.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/TApplicationException.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/TApplicationException.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/TOutput.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/TOutput.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/TOutput.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/async/TAsyncChannel.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncChannel.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TAsyncChannel.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/async/TConcurrentClientSyncInfo.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/async/TConcurrentClientSyncInfo.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/concurrency/ThreadManager.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/ThreadManager.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/ThreadManager.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/concurrency/TimerManager.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/TimerManager.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/TimerManager.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/concurrency/Util.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Util.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Util.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/processor/PeekProcessor.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/processor/PeekProcessor.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/processor/PeekProcessor.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/protocol/TBase64Utils.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TBase64Utils.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TBase64Utils.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/protocol/TDebugProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TDebugProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/protocol/TJSONProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TJSONProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/protocol/TMultiplexedProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TMultiplexedProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/protocol/TProtocol.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TProtocol.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/protocol/TProtocol.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TTransportException.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportException.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportException.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TFDTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFDTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFDTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TSimpleFileTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSimpleFileTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/THttpTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/THttpClient.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpClient.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpClient.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/THttpServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/THttpServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TSocketPool.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocketPool.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSocketPool.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TTransportUtils.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportUtils.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TTransportUtils.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TBufferTransports.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TBufferTransports.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TBufferTransports.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/server/TConnectedClient.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TConnectedClient.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TConnectedClient.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/server/TServerFramework.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServerFramework.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServerFramework.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/server/TSimpleServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TSimpleServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TSimpleServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/server/TThreadPoolServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadPoolServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadPoolServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/server/TThreadedServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadedServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TThreadedServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TPipe.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipe.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipe.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TPipeServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipeServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TPipeServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TFileTransport.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFileTransport.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TFileTransport.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/VirtualProfiling.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/VirtualProfiling.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/VirtualProfiling.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/server/TServer.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/server/TServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TSSLSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/transport/TSSLServerSocket.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/transport/TSSLServerSocket.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/concurrency/PosixThreadFactory.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/PosixThreadFactory.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/concurrency/Mutex.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Mutex.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Mutex.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Dthrift_EXPORTS -I/root/tools/thrift-0.11.0/build/lib/cpp -I/root/tools/thrift-0.11.0/lib/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long -fPIC   -std=c++11 -o CMakeFiles/thrift.dir/src/thrift/concurrency/Monitor.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Monitor.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/src/thrift/concurrency/Monitor.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TFDTransportTest.dir/TFDTransportTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TFDTransportTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TFDTransportTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TPipedTransportTest.dir/TPipedTransportTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TPipedTransportTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TPipedTransportTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/AllProtocolsTest.dir/AllProtocolTests.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/AllProtocolTests.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/AllProtocolTests.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/DebugProtoTest.dir/DebugProtoTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/DebugProtoTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/DebugProtoTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/EnumTest.dir/EnumTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/EnumTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/EnumTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/AnnotationTest.dir/AnnotationTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/AnnotationTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/AnnotationTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/OptionalRequiredTest.dir/OptionalRequiredTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/OptionalRequiredTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/OptionalRequiredTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TInterruptTest.dir/TSocketInterruptTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TSocketInterruptTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TSocketInterruptTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TInterruptTest.dir/TSSLSocketInterruptTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TSSLSocketInterruptTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TSSLSocketInterruptTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TServerIntegrationTest.dir/TServerIntegrationTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TServerIntegrationTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TServerIntegrationTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/Benchmark.dir/Benchmark.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/Benchmark.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/Benchmark.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/AnnotationTest_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/AnnotationTest_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/AnnotationTest_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/DebugProtoTest_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/DebugProtoTest_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/DebugProtoTest_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/EnumTest_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/EnumTest_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/EnumTest_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/OptionalRequiredTest_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/OptionalRequiredTest_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/OptionalRequiredTest_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/Recursive_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/Recursive_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/Recursive_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/ThriftTest_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/ThriftTest_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/ThriftTest_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/gen-cpp/TypedefTest_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/TypedefTest_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/TypedefTest_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/ThriftTest_extras.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/ThriftTest_extras.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/ThriftTest_extras.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp.dir/DebugProtoTest_extras.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/DebugProtoTest_extras.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/DebugProtoTest_extras.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp_cob.dir/gen-cpp/ChildService.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/ChildService.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/ChildService.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp_cob.dir/gen-cpp/EmptyService.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/EmptyService.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/EmptyService.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp_cob.dir/gen-cpp/ParentService.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/ParentService.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/ParentService.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/testgencpp_cob.dir/gen-cpp/proc_types.cpp.o -c /root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/proc_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/lib/cpp/test/gen-cpp/proc_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/link_test.dir/link/LinkTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/link/LinkTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/link/LinkTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/link_test.dir/link/TemplatedService1.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/link/TemplatedService1.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/link/TemplatedService1.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/link_test.dir/link/TemplatedService2.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/link/TemplatedService2.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/link/TemplatedService2.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/JSONProtoTest.dir/JSONProtoTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/JSONProtoTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/JSONProtoTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TFileTransportTest.dir/TFileTransportTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TFileTransportTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TFileTransportTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/RecursiveTest.dir/RecursiveTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/RecursiveTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/RecursiveTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/SpecializationTest.dir/SpecializationTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/SpecializationTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/SpecializationTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/processor_test.dir/processor/ProcessorTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/processor/ProcessorTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/processor/ProcessorTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/processor_test.dir/processor/EventLog.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/processor/EventLog.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/processor/EventLog.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/processor_test.dir/processor/ServerThread.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/processor/ServerThread.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/processor/ServerThread.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TNonblockingServerTest.dir/TNonblockingServerTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TNonblockingServerTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TNonblockingServerTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TNonblockingSSLServerTest.dir/TNonblockingSSLServerTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TNonblockingSSLServerTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TNonblockingSSLServerTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/OpenSSLManualInitTest.dir/OpenSSLManualInitTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/OpenSSLManualInitTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/OpenSSLManualInitTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/concurrency_test.dir/concurrency/Tests.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/concurrency/Tests.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/concurrency/Tests.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/SecurityTest.dir/SecurityTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/SecurityTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/SecurityTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/UnitTestMain.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/UnitTestMain.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/UnitTestMain.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/TMemoryBufferTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TMemoryBufferTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TMemoryBufferTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/TBufferBaseTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TBufferBaseTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TBufferBaseTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/Base64Test.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/Base64Test.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/Base64Test.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/ToStringTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/ToStringTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/ToStringTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/TypedefTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TypedefTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TypedefTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/TServerSocketTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TServerSocketTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TServerSocketTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/TServerTransportTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/TServerTransportTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/TServerTransportTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/concurrency/MutexTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/concurrency/MutexTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/concurrency/MutexTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/lib/cpp/test",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_CHRONO_DYN_LINK -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_PROGRAM_OPTIONS_DYN_LINK -DBOOST_SYSTEM_DYN_LINK -DBOOST_TEST_DYN_LINK -DBOOST_THREAD_DYN_LINK -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/root/tools/thrift-0.11.0/build/lib/cpp/test -I/root/tools/thrift-0.11.0/lib/cpp/test -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/UnitTests.dir/concurrency/RWMutexStarveTest.cpp.o -c /root/tools/thrift-0.11.0/lib/cpp/test/concurrency/RWMutexStarveTest.cpp",
+  "file": "/root/tools/thrift-0.11.0/lib/cpp/test/concurrency/RWMutexStarveTest.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TutorialServer.dir/CppServer.cpp.o -c /root/tools/thrift-0.11.0/tutorial/cpp/CppServer.cpp",
+  "file": "/root/tools/thrift-0.11.0/tutorial/cpp/CppServer.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/TutorialClient.dir/CppClient.cpp.o -c /root/tools/thrift-0.11.0/tutorial/cpp/CppClient.cpp",
+  "file": "/root/tools/thrift-0.11.0/tutorial/cpp/CppClient.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/tutorialgencpp.dir/gen-cpp/Calculator.cpp.o -c /root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/Calculator.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/Calculator.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/tutorialgencpp.dir/gen-cpp/SharedService.cpp.o -c /root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/SharedService.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/SharedService.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/tutorialgencpp.dir/gen-cpp/shared_constants.cpp.o -c /root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/shared_constants.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/shared_constants.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/tutorialgencpp.dir/gen-cpp/shared_types.cpp.o -c /root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/shared_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/shared_types.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/tutorialgencpp.dir/gen-cpp/tutorial_constants.cpp.o -c /root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/tutorial_constants.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/tutorial_constants.cpp"
+},
+{
+  "directory": "/root/tools/thrift-0.11.0/build/tutorial/cpp",
+  "command": "/usr/bin/c++  -DBOOST_ALL_DYN_LINK -DBOOST_TEST_DYN_LINK -D__STDC_FORMAT_MACROS -I/root/tools/thrift-0.11.0/build/tutorial/cpp -I/root/tools/thrift-0.11.0/tutorial/cpp -I/root/tools/thrift-0.11.0/build -I/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp -I/root/tools/thrift-0.11.0/lib/cpp/src   -Wno-variadic-macros -Wno-long-long   -std=c++11 -o CMakeFiles/tutorialgencpp.dir/gen-cpp/tutorial_types.cpp.o -c /root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/tutorial_types.cpp",
+  "file": "/root/tools/thrift-0.11.0/build/tutorial/cpp/gen-cpp/tutorial_types.cpp"
+}
+]

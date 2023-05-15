@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../../libtestgencpp.a"
+  "../../libtestgencpp.pdb"
+  "CMakeFiles/testgencpp.dir/DebugProtoTest_extras.cpp.o"
+  "CMakeFiles/testgencpp.dir/ThriftTest_extras.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/AnnotationTest_types.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/DebugProtoTest_types.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/EnumTest_types.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/OptionalRequiredTest_types.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/Recursive_types.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/ThriftTest_types.cpp.o"
+  "CMakeFiles/testgencpp.dir/gen-cpp/TypedefTest_types.cpp.o"
+  "gen-cpp/AnnotationTest_constants.cpp"
+  "gen-cpp/AnnotationTest_constants.h"
+  "gen-cpp/AnnotationTest_types.cpp"
+  "gen-cpp/AnnotationTest_types.h"
+  "gen-cpp/DebugProtoTest_types.cpp"
+  "gen-cpp/DebugProtoTest_types.h"
+  "gen-cpp/EmptyService.cpp"
+  "gen-cpp/EmptyService.h"
+  "gen-cpp/EnumTest_types.cpp"
+  "gen-cpp/EnumTest_types.h"
+  "gen-cpp/OptionalRequiredTest_types.cpp"
+  "gen-cpp/OptionalRequiredTest_types.h"
+  "gen-cpp/Recursive_types.cpp"
+  "gen-cpp/Recursive_types.h"
+  "gen-cpp/SecondService.cpp"
+  "gen-cpp/ThriftTest.cpp"
+  "gen-cpp/ThriftTest_constants.cpp"
+  "gen-cpp/ThriftTest_types.cpp"
+  "gen-cpp/ThriftTest_types.h"
+  "gen-cpp/TypedefTest_types.cpp"
+  "gen-cpp/TypedefTest_types.h"
+  "gen-cpp/foo_service.cpp"
+  "gen-cpp/foo_service.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/testgencpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wno-variadic-macros -Wno-long-long  -rdynamic CMakeFiles/concurrency_test.dir/concurrency/Tests.cpp.o  -o ../../../bin/concurrency_test  -Wl,-rpath,/root/tools/thrift-0.11.0/build/lib ../../libthrift.so.0.11.0 -lssl -lcrypto -lpthread 
